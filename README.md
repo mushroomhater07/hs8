@@ -1,13 +1,8 @@
 # hs8
 
-todo:
-
-decide a project
-
-winning requirement
-
-planning - project planning + idea + improvemnt
-
-code in < 36hr
-
-win!!!
+todo: <br>
+decide a project <br>
+winning requirement <br>
+planning - project planning + idea + improvemnt <br>
+code in < 36hr <br>
+win!!! <br>
